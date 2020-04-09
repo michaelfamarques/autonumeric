@@ -1,6 +1,6 @@
 {
-  "name": "@angularfy/autonumeric",
-  "version": "3.0.3",
+  "name": "@avancoinformatica/autonumeric",
+  "version": "3.0.10",
   "description": "Angular implementation of autoNumeric",
   "keywords": [
     "angular",
@@ -19,13 +19,12 @@
   "author": "Abdelghani AINOUSS",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angularfy/autonumeric.git"
+    "url": "git+https://github.com/michaelfamarques/autonumeric.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angularfy/autonumeric/issues"
+    "url": "https://github.com/michaelfamarques/autonumeric/issues"
   },
-  "homepage": "http://www.angularfy.com/projects/autonumeric",
   "peerDependencies": {
     "@angular/common": "^4.0.1",
     "@angular/core": "^4.0.1",

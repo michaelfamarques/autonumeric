@@ -1,6 +1,6 @@
 {
-  "name": "@angularfy/autonumeric",
-  "version": "3.0.0",
+  "name": "@avancoinformatica/autonumeric",
+  "version": "3.0.10",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +10,7 @@
     "e2e": "ng e2e"
   },
   "repository": {
-    "url": "git://github.com/angularfy/autonumeric.git"
+    "url": "git://github.com/michaelfamarques/autonumeric.git"
   },
   "dependencies": {},
   "devDependencies": {
